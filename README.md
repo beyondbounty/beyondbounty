@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @beyondbounty
+- 👀 Check out my blog ... https://beyondbounty.wordpress.com/
+- 🌱 I’m currently learning ... python3
+- 📫 How to reach me ... https://www.linkedin.com/in/erinzwinger/
